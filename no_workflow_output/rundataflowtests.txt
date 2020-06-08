@@ -1,0 +1,40 @@
+#! /usr/bin/env python
+now run -e Tracer dataflow1.py
+
+now run -e Tracer dataflow2.py
+
+now run -e Tracer dataflow3.py
+
+now run -e Tracer dataflow4.py
+
+now run -e Tracer example1.py
+
+now run -e Tracer example2.py
+
+now run -e Tracer fibonacci.py
+
+now run -e Tracer t1.py - FAILED
+
+now run -e Tracer t1.py - FAILED
+
+now run -e Tracer t3.py - global
+
+now run -e Tracer test_cfunc.py
+
+now run -e Tracer test_decorator.py
+
+now run -e Tracer test_func.py - FAILED
+
+now run -e Tracer test_func.py
+
+now run -e Tracer test_metaclass.py3 - FAILED
+
+now run -e Tracer test_metaclass.py3 - FAILED
+
+now run -e Tracer test_metaclass_py3.py - FAILED
+
+now run -e Tracer test_metaclass_py3.py
+
+now run -e Tracer test_noreturn_func.py
+
+now run -e Tracer test_var.py

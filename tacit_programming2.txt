@@ -1,0 +1,8 @@
+*** WARNING no spec for module functools
+1 -> 12
+1 -> 13
+12 -> 16
+16 -> 17
+3 -> 16
+6 -> 16
+9 -> 16

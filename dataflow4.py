@@ -1,6 +1,6 @@
-from random import *
+from random import random
 
-if random() < 0.0001:
+if random() < 0.50:
     x = 500
 else:
     x = 600

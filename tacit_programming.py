@@ -1,11 +1,11 @@
 def foo(x):
-    return 1
+    return x + 1
 
 def bar(y):
-    return 2
+    return y + 2
 
 def baz(z):
-    return 3
+    return z + 3
 
 def example(x):
     y = foo(x)

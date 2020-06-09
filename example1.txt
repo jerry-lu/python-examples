@@ -1,5 +1,3 @@
-*** WARNING no spec for module example2
-*** WARNING no spec for module re
 14 -> 29
 19 -> 26
 2 -> 27
